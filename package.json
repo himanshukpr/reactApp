@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://github.com/himanshukpr/reactApp.git", // Replace with your GitHub username and repo name
+  "homepage": "https://github.com/himanshukpr/reactApp.git",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -13,11 +13,8 @@
     "deploy": "gh-pages -d dist"
   },
   "dependencies": {
-    "react": "^19.0.0",
-    "react-dnd": "^16.0.1",
-    "react-dnd-html5-backend": "^16.0.1",
-    "react-dom": "^19.0.0",
-    "react-draggable": "^4.4.6"
+    "react": "^17.0.0",
+    "react-dom": "^17.0.0"
   },
   "devDependencies": {
     "@eslint/js": "^9.21.0",
